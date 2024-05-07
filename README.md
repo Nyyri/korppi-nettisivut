@@ -12,5 +12,5 @@ Sivut toteutettiin asiakkaan kanssa ensin konseptoiden. Tehtiin sivuille suuntaa
 ![Sivujen etusivua kuva 3 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_3.JPG)
 ![Sivujen etusivua kuva 4 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_4.JPG)
 ### Toteutus
-
+![Sivujen ulkonäkö kokonaisuudessaan](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut.gif)
 ## Lomakkeet
