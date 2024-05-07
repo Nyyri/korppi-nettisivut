@@ -15,14 +15,16 @@ Etusivun "hero":
 Yrityksen tiedot lyhyesti:
 ![Sivujen etusivua kuva 2 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_2.JPG)
 
-Arvokortti:
-##
+Arvokortti:<br/>
 ![Sivujen etusivua kuva 3 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_3.JPG)
 
 Footer:
 ![Sivujen etusivua kuva 4 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_4.JPG)
 
 ### Toteutus
-Sivujen ulkonäkö kokonaisuudessaan:
-![Sivujen ulkonäkö kokonaisuudessaan](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut.gif)
+Sivujen ulkonäkö (työpöytä):
+![Sivujen ulkonäkö työpöytä gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut.gif)
+
+Sivujen ulkonäkö (mobiili):<br/>
+![Sivujen ulkonäkö mobiili gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut_mobiili.gif)
 ## Lomakkeet
