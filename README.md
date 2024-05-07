@@ -7,7 +7,8 @@ Lomakkeiden toiminta toteutettu JavaScriptillä ja PHP:lla. Tietokantana toimii 
 Lomakkeiden lähetyksen yhteydessä lähetetään käyttäjälle myös sähköpostia.
 ## Sivujen ulkonäköä ja toimintaa
 ### Protoilu etusivu
-Sivut toteutettiin asiakkaan kanssa ensin konseptoiden. Tehtiin sivuille suuntaa antava "prototyyppi" Figmassa:
+Sivut toteutettiin asiakkaan kanssa ensin konseptoiden.
+Tehtiin sivuille suuntaa antava prototyyppi Figmassa, joka sitten toteutettiin käytännössä.
 
 Etusivun "hero":
 ![Sivujen etusivua kuva 1 Figmasta](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/figma/figma_etusivu_1.JPG)
@@ -28,3 +29,4 @@ Sivujen ulkonäkö (työpöytä):
 Sivujen ulkonäkö (mobiili):<br/>
 ![Sivujen ulkonäkö mobiili gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut_mobiili.gif)
 ## Lomakkeet
+Lomakkeiden toiminta:
