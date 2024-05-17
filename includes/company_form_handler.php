@@ -14,7 +14,7 @@ $inputErrors = [];
 $data = [];
 
 // Regular expression
-$preg_alpha = "/^([ \p{Latin}]([\p{Latin}]-[\p{Latin}])?)+$/";
+$preg_alpha = "/^([ \p{Latin}]([\p{Latin}]-[\p{Latin}])?)+$/u";
 $preg_phone = "/^(040|041|042|043|044|045|046|049|050)\d{4,10}$/";
 $preg_businessId = "/^\d{7}\-\d{1}$/";
 
