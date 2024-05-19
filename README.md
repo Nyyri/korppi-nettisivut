@@ -29,4 +29,8 @@ Sivujen ulkonäkö (työpöytä):
 Sivujen ulkonäkö (mobiili):<br/>
 ![Sivujen ulkonäkö mobiili gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut_mobiili.gif)
 ## Lomakkeet
-Lomakkeiden toiminta:
+Lomakkeiden front-end toimii JavaScriptillä jQuery-kirjastoa käyttäen. Lomakkeet validoitaan ja lähetetään AJAXia käyttäen sille tehdylle .php tiedostolle. Lähetetyt tiedot validoitaan vielä php:n puolella, jonka jälkeen tiedot tallennetaan tietokantaan ja käyttäjälle sekä ylläpidolle lähetetään varmistussähköpostit. Toteutuksessa käytettiin PHPMaileria.
+
+JavaScript ja PHP tiedostoista olisi voinut tehdä "modulaarisemmat", ettei koodi toistuisi tiedostojen välillä niin paljon. Tarkoituksena oli saada toimiva kokonaisuus mahdollisimman pian, joten tämä jäi jatkokehitykseen.
+
+### Lomakkeiden validointia Front End
