@@ -29,8 +29,12 @@ Sivujen ulkonäkö (työpöytä):
 Sivujen ulkonäkö (mobiili):<br/>
 ![Sivujen ulkonäkö mobiili gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/sivut_mobiili.gif)
 ## Lomakkeet
-Lomakkeiden front-end toimii JavaScriptillä jQuery-kirjastoa käyttäen. Lomakkeet validoitaan ja lähetetään AJAXia käyttäen sille tehdylle .php tiedostolle. Lähetetyt tiedot validoitaan vielä php:n puolella, jonka jälkeen tiedot tallennetaan tietokantaan ja käyttäjälle sekä ylläpidolle lähetetään varmistussähköpostit. Toteutuksessa käytettiin PHPMaileria.
+Lomakkeiden front-end toimii JavaScriptillä jQuery-kirjastoa käyttäen. Lomakkeet validoitaan front-endissä ja lähetetään AJAXia käyttäen .php tiedostolle. Lähetetyt tiedot validoitaan vielä php:n puolella, jonka jälkeen tiedot tallennetaan tietokantaan ja käyttäjälle sekä ylläpidolle lähetetään varmistussähköpostit. Toteutuksessa sähköpostin lähettämiseen käytettiin PHPMaileria.
 
 JavaScript ja PHP tiedostoista olisi voinut tehdä "modulaarisemmat", ettei koodi toistuisi tiedostojen välillä niin paljon. Tarkoituksena oli saada toimiva kokonaisuus mahdollisimman pian, joten tämä jäi jatkokehitykseen.
 
 ### Lomakkeiden validointia Front End
+Lomakkeiden Kunta/kaupunki kenttään haetaan tietokannasta kaikki suomen kunnat ehdotuksiin (ehdotukset eivät näy gifissä).
+
+Lomakkeiden toimintaa (työpöytä):<br/>
+![Sivujen lomakkeiden front end toimintaa gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/lomake.gif)
