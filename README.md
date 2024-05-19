@@ -39,7 +39,7 @@ Lomakkeiden Kunta/kaupunki kenttään haetaan tietokannasta kaikki suomen kunnat
 Lomakkeiden toimintaa (työpöytä):<br/>
 ![Sivujen lomakkeiden front end toimintaa gif](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/gifs/lomake.gif)
 ### Sähköpostit
-Jokaisesta lomakkeesta lähtee sähköpostia käyttäjälle ja ylläpidolle. Ylläpidon sähköpostit ovat samantapaisia ja niissä kerrotaan käyttäjän syöttämät tiedot. Alla esimerkki työhakemuksen sähköposti.
+Jokaisesta lomakkeesta lähtee sähköpostia käyttäjälle ja ylläpidolle. Ylläpidon sähköpostit ovat samantapaisia ja niissä kerrotaan käyttäjän syöttämät tiedot. Alla esimerkki työhakemuksen sähköposti.<br/>
 Työpöytä:<br/>
 ![Ylläpidon sähköpostin ulkonäkö työpöytä](https://raw.githubusercontent.com/Nyyri/korppi-nettisivut/main/readme/pics/sposti.JPG)
 
